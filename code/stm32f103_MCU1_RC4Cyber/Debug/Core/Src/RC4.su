@@ -1,0 +1,4 @@
+../Core/Src/RC4.c:11:6:RC4_init	288	static
+../Core/Src/RC4.c:33:6:RC4_encrypt	32	static
+../Core/Src/RC4.c:49:6:RC4_decrypt	32	static
+../Core/Src/RC4.c:65:13:swap	24	static
